@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CKaniklides
-- 👀 I’m interested in Computer Rogramming, Fast cars and Travelling
+- 👀 I’m interested in Computer Rogramming
 - 📖 I’m currently studying Computer Science at Vrije Universiteit Amsterdam
-- 📫 How to reach me ==> LinkedIn: https://www.linkedin.com/in/constantinos-kaniklides-aaba9822a/ , Facebook: https://www.facebook.com/kotsios.kk
+- 📫 How to reach me ==> LinkedIn: https://www.linkedin.com/in/constantinos-kaniklides-aaba9822a/
 - 
 
 <!---
