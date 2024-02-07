@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CKaniklides
-- 👀 I’m interested in Computer Rogramming
+- 👀 I’m interested in Computer Programming
 - 📖 I’m currently studying Computer Science at Vrije Universiteit Amsterdam
 - 📫 How to reach me ==> LinkedIn: https://www.linkedin.com/in/constantinos-kaniklides-aaba9822a/
 - 
